@@ -50,9 +50,9 @@
 
 * [Features](#%EF%B8%8F-features)
 * [Layout](#-layout)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Pré Requisitos](#pré-requisitos)
-* [Autor](#-autor)
+* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [Pré Requisitos](#-pré-requisitos)
+* [Autor](#-autores)
 
 ## ⚙️ Features
 
