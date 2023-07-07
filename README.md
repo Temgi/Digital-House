@@ -46,6 +46,14 @@
 <div>
 <br>
 
+## 📗 Sumário
+
+* [Features](#%EF%B8%8F-features)
+* [Layout](#-layout)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Pré Requisitos](#pré-requisitos)
+* [Autor](#-autor)
+
 ## ⚙️ Features
 
 - [x] Página individual do produto(livro)
@@ -54,30 +62,23 @@
 - [x] Cadastro de produtos 
 - [x] Cadastro de usuário
 
-<br>
-
 ## 🎨 Layout
-
-
+<br>
 
 <a href="https://www.canva.com/design/DAE_7eqkEPE/OdpUXJiGBeoW8eYczJAOKw/view?website#4:inicio">
   <img alt="Canva the book club" src="http://img.shields.io/static/v1?label=Layout&message=Canva&color=blue&s?style=plastic=appveyor">
 </a>
-<br><br>
+
 
 <div>
-
- <br>
-<p>
-    O projeto foi desenvolvido em JAVA, usando Maven e Angular. No Backend temos a estrutura do banco de dados relacional:
-</p>  
-    <img src="./frontend/thebookclub-angular/src/assets/img/model.png">
+    <p>
+        O projeto foi desenvolvido em JAVA, usando Maven e Angular. No Backend temos a estrutura do banco de dados relacional:
+    </p>  <img src="https://github.com/Temgi/Digital-House/blob/main/Projeto-Integrador-Ecommerce/frontend/thebookclub-angular/src/assets/img/model.png">
 </div> 
-<br>
 
 <div>
-   
-   ## Tecnologias utilizadas:
+
+## 🚀 Tecnologias Utilizadas:
 <ul>
         <li>Java 17</li>
         <li> Maven Apache 4.0.0</li>
@@ -96,13 +97,13 @@
 </ul>
 </div>
 
-## Pré requisitos:
+## 🔥 Pré Requisitos:
 <div>
     Para rodar op código de forma local é necessário ter o nvm instalado assim como todas as dependencias citadas acima.
-
 <br><br>
 
-<h4 align="center">Colaboradores: </h4>
+
+## 📝 **Autores**
 
 <table>
 <tr>
