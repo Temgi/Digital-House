@@ -105,7 +105,7 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Temgi"><img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/8334174?v=4" width="100px;" alt="Foto de Rui Temgi Saraiva Azevedo no GitHub"/><br /><sub><b>Temgi</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Temgi"><img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/8334174?v=4" width="100px;" alt="Foto de Rui Temgi Saraiva Azevedo no GitHub"/><br /><sub><b>Rui Temgi</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/carollmbg"><img style="border-radius:10%;" src="https://avatars.githubusercontent.com/u/51660899?v=4" width="100px;" alt="Foto de carollmbg no GitHub"/><br /><sub><b>carollmbg</b></sub></a><br /></td>
 
