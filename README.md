@@ -8,6 +8,7 @@
 </div>
 <br><br>
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Temgi/Digital-House/blob/main/LICENSE)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&?style=plastic=appveyor)
 ![Badge em Maven](http://img.shields.io/static/v1?label=Maven%20version&message=4.0.0&color=blue&?style=plastic=appveyor)
 ![Badge em Release date](http://img.shields.io/static/v1?label=release&message=Julho&color=blue&s?style=plastic=appveyor)
